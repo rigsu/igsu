@@ -1,0 +1,73 @@
+[33mcommit 7a17cfa73d6dbd635db729c352981ce1c6924d10[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 29 17:15:06 2021 +0200
+
+    A new file is added
+
+[33mcommit 6e1eda962c9553b5095afe475172d2f2e1e9e240[m
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 29 17:12:09 2021 +0200
+
+    A new file is added
+
+[33mcommit 57dc4b47629a78b2265da1681e06cfb1f69caaff[m
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 29 16:59:34 2021 +0200
+
+    A new file is added
+
+[33mcommit 25b3f72ca8db04302bcce0093f886d357c4e922b[m
+Merge: 759b59c c674d2c
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 29 03:15:05 2021 +0200
+
+    Merge branch 'master' of https://github.com/rigsu/igsu
+
+[33mcommit 759b59c8c520b5579e7c25bc32f41d64afde9bea[m
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 29 03:04:39 2021 +0200
+
+    A new file is added
+
+[33mcommit c674d2cf752188eff36fd63376c08f058a7337e8[m
+Author: rigsu <64703794+rigsu@users.noreply.github.com>
+Date:   Sun Aug 29 02:37:30 2021 +0200
+
+    Delete TextFile00_hw.txt.txt
+
+[33mcommit a93643a3f7998a06ce94f0df667f7a334698b868[m
+Author: rigsu <64703794+rigsu@users.noreply.github.com>
+Date:   Sun Aug 29 02:07:28 2021 +0200
+
+    Delete additional file 9.4.4.txt
+
+[33mcommit 3892cb1235c39874966a57cc540dfe8914c4e430[m
+Author: rigsu <64703794+rigsu@users.noreply.github.com>
+Date:   Sun Aug 29 01:38:38 2021 +0200
+
+    Add files via upload
+
+[33mcommit 1fcde59da89c348adc5bc6ad01b180720bfa691e[m
+Merge: cb07743 097abbf
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 22 14:38:03 2021 +0200
+
+    Merge branch 'master' of https://github.com/rigsu/igsu
+
+[33mcommit cb07743d254a23ca19e1cb0c25646a399e593be0[m
+Author: rigsu <brigsu@web.de>
+Date:   Sun Aug 22 01:06:53 2021 +0200
+
+    A new file is added
+
+[33mcommit 097abbf3bafe9df44a4989e73dd54092f8349e62[m
+Author: rigsu <64703794+rigsu@users.noreply.github.com>
+Date:   Fri Aug 20 02:11:40 2021 +0200
+
+    Create TestFile00.txt
+
+[33mcommit 394a25ad6902675acc4373166042b6aa4c4ce52a[m
+Author: rigsu <64703794+rigsu@users.noreply.github.com>
+Date:   Fri Aug 20 00:29:50 2021 +0200
+
+    Create README.md
