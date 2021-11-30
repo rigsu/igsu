@@ -17,7 +17,7 @@ while True:
         if type(Nr_Tickets) == int:
             break
     except ValueError:
-        print('Введите целое число')
+        print('please enter int_type')
 
 for i in range (Nr_Tickets):                         
     age_for_ticket = int(input("For which age is a needed Ticket №{i}? : "))
@@ -37,8 +37,8 @@ for i in range (Nr_Tickets):
 
 if Nr_Tickets > 3:
     price_common = price_common - (price_common * (10 / 100))
-    print('Сумма к оплате руб. с 10%-ой скидкoй на полную стоимость заказа за регистрацию больше 3-и человек: ', price_common)
+    print('Sum to be paid RUB with a 10% discount on the full cost for registration more than 3 people: ', price_common)
 else:
-    print('Сумма к оплате руб.: ', price_common)  
+    print('Sum to be paid RUB: ', price_common)  
 
 
