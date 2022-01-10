@@ -18,8 +18,8 @@ works = [{"name": "Max Must", "activity": "Software development 1", "costs": 100
          {"name": "Mister Z", "activity": "buying materials group Z", "costs": 25}]
 obj_lst = []
 for work in works:
-    obj_lst.append(Work(**work))
-
+    obj_lst.append(Work(**work))                    # Метод append() в Python добавляет элемент в конец списка.
+                                                    #  Оператор * распаковкa итерируемого объекта в аргументы вызова;   Оператор ** делает что-то похожее, только с именованными аргументами. Он позволяет взять словарь с парами ключ-значение и распаковать его в именованные аргументы в вызове функции
 for i in range(1, 4):
     print("name work:", obj_lst[i].name)
     print("activity work:", obj_lst[i].activity)
